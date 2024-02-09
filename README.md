@@ -1,4 +1,4 @@
-# usdtportal-JoudiSoft-API-usdtportal.com
+# usdtportal-JoudiSoft-API-usdtportal.com Real Easy Store
 
 1. Begin by uploading the "usdt_portal" folder to the "public_html/gateways/" directory on your server.
 
